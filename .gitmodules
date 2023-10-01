@@ -1,0 +1,3 @@
+[submodule "ahvr"]
+	path = roles/hashicorp_vault
+	url = github-joe-opensrc:joe-opensrc/ansible-hashicorp-vault-role.git
